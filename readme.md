@@ -45,4 +45,4 @@ This project was developed to demonstrate proficiency in Android UI/UX design, a
 ## 👤 Author
 
 **Bence Oros**
-*   LinkedIn: [Oros Bence](https://www.linkedin.com/in/oros-bence)
+*   LinkedIn: [Oros Bence](www.linkedin.com/in/oros-bence-512674109)
